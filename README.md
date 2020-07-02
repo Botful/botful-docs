@@ -10,7 +10,7 @@ Botful is a framework designed to make programming robots for the First Robotics
 
 ### Why Kotlin?
 
-Botful uses Kotlin simply because Kotlin is more feature-rich than Java. While Java has gotten better over the years, it still has problems like poor null safety and being very verbose. Kotlin's syntax is easier on the eyes and allows you to do more while write less code. Need to learn Kotlin? Check out this \[tutorial\]\([https://beginnersbook.com/2017/12/kotlin-tutorial/](https://beginnersbook.com/2017/12/kotlin-tutorial/)\)!
+Botful uses Kotlin simply because Kotlin is more feature-rich than Java. While Java has gotten better over the years, it still has problems like poor null safety and being very verbose. Kotlin's syntax is easier on the eyes and allows you to do more while write less code. Need to learn Kotlin? Check out this [tutorial](https://beginnersbook.com/2017/12/kotlin-tutorial/)!
 
 ### Why Botful?
 
